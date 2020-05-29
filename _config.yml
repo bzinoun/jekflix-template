@@ -1,15 +1,16 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: Devcast.ma
+title: Devcast.ma | Podcast marocain
+description: Le Podcast des Dev marocains animé par les Dev marocains 🤓
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - podcast
+  - maroc
+  - Developpeur
+  - carrière
+  - devcast.ma
+  - devcast
 email: youremail@xyz.com
-disqus_username: disqus_username
+disqus_username: badrzinoun
 show_hero: true
 menu:
   - title: Home
@@ -33,7 +34,7 @@ medium_username: medium_username
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
@@ -48,6 +49,49 @@ categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
 
+# Translation Settings
+translations:
+  text:
+    new_post: "Nouveau Podcast"
+    see_also: "Ecouter aussi"
+    search: "Recherche"
+    author: "Auteur"
+    share: "Parager"
+    comments: "Commentaires"
+  button:
+    read_now: "Ecouter maintenant"
+    share_on_twitter: "Partager sur Twitter"
+    share_on_facebook: "Partager sur Facebook"
+  pagination:
+    page: "Page"
+    of: "de"
+    next_page: "Page suivante"
+    next_post: "Page précédente"
+  recommendation:
+    text: "Pourquoi ne pas écouter quelque chose d'autre ?"
+    back_btn: "Retour au début de la page"
+  error_404:
+    title: "Page non trouvée :("
+    message: "Je suis désolé. Nous n'avons pas pu trouver la page que vous cherchez."
+    image_alt: "404 - Page not found"
+  contact:
+    title: "Contacter nous"
+    subject: "Nouveau contact!"
+    submit_btn: "Envoyer"
+    placeholders:
+      name: "Votre nom"
+      email: "Votre adresse électronique"
+      message: "Votre message"
+    errors:
+      locale: "fr"
+      empty_name: "Le nom est obligatoire"
+      empty_email: "L'adresse électronique est obligatoire"
+      invalid_email: "L'adresse électronique n'est pas valide"
+      empty_message: "Le message est obligatoire"
+    after_send:
+      title: "Message envoyé !"
+      message: "Je vous remercie de nous avoir contacté.Nous revenons vers vous dans les plus brefs délais."
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -56,8 +100,8 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
-use_logo: false
+show_get_theme_btn: false
+use_logo: true
 
 # Content paginator
 paginate_content:
@@ -100,4 +144,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.0
+version: v1.1.0

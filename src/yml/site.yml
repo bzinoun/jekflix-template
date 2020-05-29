@@ -1,14 +1,15 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: Devcast.ma
+title: Devcast.ma | Podcast marocain
+description: Le Podcast des Dev marocains animé par les Dev marocains 🤓
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - podcast
+  - maroc
+  - Developpeur
+  - carrière
+  - devcast.ma
+  - devcast
 email: youremail@xyz.com
-disqus_username: disqus_username
+disqus_username: badrzinoun
 show_hero: true
 menu:
   - title: Home

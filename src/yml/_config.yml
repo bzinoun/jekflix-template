@@ -11,6 +11,9 @@
 # Advanced Settings
 #=include advanced.yml
 
+# Translation Settings
+#=include translations.yml
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -19,8 +22,8 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
-use_logo: false
+show_get_theme_btn: false
+use_logo: true
 
 # Content paginator
 paginate_content:
@@ -63,4 +66,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.0
+version: v1.1.0
