@@ -1,12 +1,12 @@
 ---
-date: 2020-02-02 12:00:00
+date: 2020-05-06 12:00:00
 layout: post
-title: Le Salaires des developpeurs au Maroc
-subtitle: Quel salaire pour un dev au maroc ? 
+title: Être développeur marocain à l'étranger, est-ce la nouvelle norme ?
+subtitle: 
 description: Benchmark sur les salaire IT au maroc , combien vaut un dev au maroc comparer au autre pays 
 category: Developpeurs
-image: ../assets/img/S01E01.png
-optimized_image: ../assets/img/S01E01.png
+image: ../assets/img/S01E05.png
+optimized_image: ../assets/img/S01E04.png
 tags:
   - fate
   - travel

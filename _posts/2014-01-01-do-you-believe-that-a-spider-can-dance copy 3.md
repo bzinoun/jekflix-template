@@ -1,12 +1,12 @@
 ---
-date: 2020-02-02 12:00:00
+date: 2020-04-15 12:00:00
 layout: post
-title: Le Salaires des developpeurs au Maroc
-subtitle: Quel salaire pour un dev au maroc ? 
-description: Benchmark sur les salaire IT au maroc , combien vaut un dev au maroc comparer au autre pays 
+title: Agile, DevOps, Software Craftsmanship la guerre des tranchées
+subtitle: 
+description: Dans un monde qui change , ou les positioner ?
 category: Developpeurs
-image: ../assets/img/S01E01.png
-optimized_image: ../assets/img/S01E01.png
+image: ../assets/img/S01E03.png
+optimized_image: ../assets/img/S01E03.png
 tags:
   - fate
   - travel
