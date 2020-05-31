@@ -1,5 +1,5 @@
 ---
-date: 2020-05-06 12:00:00
+date: 2020-05-08 12:00:00
 layout: post
 title: Être développeur marocain à l'étranger, est-ce la nouvelle norme ?
 subtitle: 
