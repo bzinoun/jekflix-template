@@ -1,6 +1,6 @@
 ---
 layout: category
-title: CSS
+title: Invité
 slug: css
-description: A category for CSS related posts.
+description: "Podcast avec un invité , échangeant autour d'un sujet "
 ---
