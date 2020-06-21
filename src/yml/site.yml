@@ -8,8 +8,6 @@ tags:
   - carrière
   - devcast.ma
   - devcast
-email: youremail@xyz.com
-disqus_username: badrzinoun
 show_hero: true
 menu:
   - title: Home
@@ -20,3 +18,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+email: zinoun.badr@gmail.com
+disqus_username: badrzinoun
