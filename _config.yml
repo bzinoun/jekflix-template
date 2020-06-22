@@ -9,7 +9,7 @@ tags:
   - carrière
   - devcast.ma
   - devcast
-email: youremail@xyz.com
+email: zinoun.badr@gmail.com
 disqus_username: badrzinoun
 show_hero: true
 menu:
@@ -27,7 +27,7 @@ menu:
 # Remove the item if you don't need it
 github_username: github_username
 facebook_username: facebook_username
-twitter_username: twitter_username
+twitter_username: devcastma
 instagram_username: instagram_username
 linkedin_username: linkedin_username
 medium_username: medium_username
@@ -35,7 +35,7 @@ medium_username: medium_username
 
 # Posts Settings
 show_time_bar: false
-show_modal_on_exit: false
+show_modal_on_exit: true
 show_modal_on_finish_post: true
 two_columns_layout: true
 
