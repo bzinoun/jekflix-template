@@ -5,7 +5,7 @@ title: Être développeur marocain à l'étranger, est-ce la nouvelle norme ?
 description: De plus en plus d'informaticiens marocains quittent le Maroc pour
   suivre une carrière à l'étranger, est-ce la nouvelle norme ?
 image: /assets/img/uploads/s01e05.png
-category: blog
+category: Podcast
 tags:
   - Maroc
   - France
