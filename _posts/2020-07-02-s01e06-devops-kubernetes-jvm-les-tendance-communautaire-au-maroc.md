@@ -8,6 +8,7 @@ description: "De plus en plus de monde se questionne sur l'avenir de Java,
   l'épisode Mohammed Aboulaite deputy CTO chez X-hub les différentes facettes de
   l'ecosystem JVM globalement et Java spécialement  . Nous revenons aussi sur la
   définition de Devops et le contexte Container/ K8S au Maroc en autre. "
+image: /assets/img/uploads/whatsapp-image-2020-06-24-at-01.03.25.jpeg
 category: "{{slug}}"
 tags:
   - devops
