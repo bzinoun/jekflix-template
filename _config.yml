@@ -25,12 +25,12 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: devcastma
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+#github_username: github_username
+facebook_username: devcast.ma
+twitter_username: devcast_ma
+instagram_username: devcast.ma
+#linkedin_username: linkedin_username
+#medium_username: medium_username
 
 
 # Posts Settings
