@@ -1,7 +1,7 @@
 ---
 date: 2020-07-02 15:55:09
 layout: post
-title: "S01E06 : Devops , Kubernetes , JVM Les tendance communautaire au Maroc ."
+title: Devops , Kubernetes , JVM Les tendance communautaire au Maroc
 subtitle: Kubernetes Devops et JVM
 description: "De plus en plus de monde se questionne sur l'avenir de Java,
   Langage de plus de 25 ans nous analysons en compagnie de notre invité de
