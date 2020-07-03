@@ -25,5 +25,3 @@ Links :
 Book : 
 
 [Accelerate](https://www.amazon.fr/Accelerate-Building-Performing-Technology-Organizations/dp/1942788339)
-
-.
