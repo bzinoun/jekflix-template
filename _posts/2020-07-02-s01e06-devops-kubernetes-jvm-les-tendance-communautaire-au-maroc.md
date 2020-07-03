@@ -1,5 +1,5 @@
 ---
-date: 2020-07-03 13:09:20
+date: 2020-07-03 10:09:20
 layout: post
 title: Devops , Kubernetes , JVM Les tendance communautaire au Maroc
 subtitle: Kubernetes Devops et JVM
@@ -25,3 +25,5 @@ Links :
 Book : 
 
 [Accelerate](https://www.amazon.fr/Accelerate-Building-Performing-Technology-Organizations/dp/1942788339)
+
+.
