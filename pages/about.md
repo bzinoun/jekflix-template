@@ -5,7 +5,7 @@ description: à propos
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/devcast.ma.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/uploads/devcast.ma.png" alt="Podcast marocain" width="200">
 
 # About
 
