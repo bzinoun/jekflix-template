@@ -4,7 +4,6 @@ photo: /assets/img/uploads/devcast.ma.png
 name: devcast
 display_name: Devcast Team
 bio: |-
-  DevCast Team </br>
   - Sallah Kokaina </br>
   - Rachid Baaziz</br>
   -ZINOUN Badr Eddine</br>
