@@ -19,9 +19,6 @@ paginate: false
 De plus en plus de monde se questionne sur l'avenir de Java, Langage de plus de 25 ans nous analysons en compagnie de notre invité de l'épisode Mohammed Aboulaite deputy CTO chez X-Hub les différentes facettes de l'ecosystem JVM globalement et Java spécialement . Nous revenons aussi sur la définition de Devops et le contexte Container/ K8S au Maroc en autre.
 
 Links :
-
 [DevC Casablanca Facebook Groupe](https://www.facebook.com/groups/DevC.Casablanca) 
-
 Book : 
-
 [Accelerate](https://www.amazon.fr/Accelerate-Building-Performing-Technology-Organizations/dp/1942788339)
