@@ -1,7 +1,7 @@
 ---
 date: 2020-07-03 10:09:20
 layout: post
-title: Devops , Kubernetes , JVM Les tendances communautaires au Maroc
+title: Devops , Kubernetes , JVM, Les tendances communautaires au Maroc
 subtitle: Kubernetes Devops et JVM
 description: Devops , JVM et communauté
 image: /assets/img/uploads/s01e06.jpg
@@ -14,7 +14,7 @@ tags:
 author: devcast
 paginate: false
 ---
-<iframe src="https://anchor.fm/devcastma/embed/episodes/S01E06--Devops---Kubernetes---JVM-Les-tendances-communautaires-au-Maroc-eg7ejc" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/devcastma/embed/episodes/S01E06--Devops---Kubernetes---JVM---Les-tendances-communautaires-au-Maroc-eg7ejc" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 Au lendemain de ses 25 ans, Java avec sa JVM sont-ils encore attrayants ? En contraste avec l’adoption du DevOps, et avec la montée en popularité de Kubernetes, comment se positionnent les communautés au Maroc et quel intérêt y trouvent les entreprises ?
 
