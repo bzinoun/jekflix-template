@@ -5,12 +5,12 @@ title: Devops , Kubernetes , JVM Les tendance communautaire au Maroc
 subtitle: Kubernetes Devops et JVM
 description: Devops , JVM et communauté
 image: /assets/img/uploads/whatsapp-image-2020-06-24-at-01.03.25.jpeg
-category: "Podcast"
+category: Podcast
 tags:
   - devops
   - kubernetes
   - JVM
-author: Badr
+author: devcast
 paginate: false
 ---
 <iframe src="https://anchor.fm/devcastma/embed/episodes/S01E06--Devops---Kubernetes---JVM-Les-tendance-communautaire-au-Maroc-eg7ejc" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
