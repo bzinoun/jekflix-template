@@ -1,5 +1,5 @@
 <!-- Add your newsletter subscription form here -->
-<div style="text-align: center">
+<div class="newsletter">
     <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
     <div class="mc-field-group">
         <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on">
@@ -8,6 +8,11 @@
 </form>
 </div>
 <style>
+    .newsletter {
+     text-align: center   
+     opacity: 0.5;
+     background-color: #00b8ba;
+    }
     .wj-contact-form input {
         vertical-align: middle;
         margin-top: 0.25em;
@@ -22,7 +27,7 @@
     
     .wj-contact-form input[type="submit"] {
         background-color: #00b8ba;
-        border: 1px solid #00b8ba;;
+        border: 1px solid #00b8ba;
         color: #eee;
     }
 </style> 
