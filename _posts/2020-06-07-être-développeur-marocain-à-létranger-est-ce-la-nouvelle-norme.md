@@ -11,7 +11,7 @@ tags:
   - France
   - développeur
   - migration
-author: Badr
+author: devcast
 paginate: false
 ---
 <iframe src="https://anchor.fm/devcastma/embed/episodes/S01E05---tre-dveloppeur-marocain--ltranger--est-ce-la-nouvelle-norme-ef2nbm" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
