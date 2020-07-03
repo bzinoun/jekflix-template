@@ -1,10 +1,13 @@
 ---
 layout: page
-menu: false
+menu: true
 date: 2020-02-27 01:53:59
-title: About
+title: à propos
 permalink: /about/
-description: Some description.
+description: ""
+tags:
+  - podcast
+  - maroc
 ---
 <img class="img-rounded" src="/assets/img/uploads/devcast.ma.png" alt="Thiago Rossener" width="200">
 
