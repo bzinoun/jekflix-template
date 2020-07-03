@@ -69,15 +69,11 @@
         <!-- Show modal if the post is the last one -->
         {% if paginator.is_last and site.show_modal_on_finish_post %}
             {% include modal.html title="You made it!" subtitle="Why don't you try another?" %}
-            {% include subscription.html %}
-
             {% endif %}
 
         <!-- Show modal before user leaves the page -->
         {% if site.show_modal_on_exit %}
             {% include modal.html title=" Ne partez pas encore !" subtitle="Vous aimerez aussi .." closed=true showOnExit=true %}
-            {% include subscription.html %}
-
         {% endif %}
 
         {% include subscription.html %}
