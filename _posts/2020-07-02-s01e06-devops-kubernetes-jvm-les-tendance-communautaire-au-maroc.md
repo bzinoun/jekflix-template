@@ -23,6 +23,9 @@ Pour répondre à ces questionnements, nous analysons en compagnie de notre invi
 Links :
 
 * [DevC Casablanca Facebook Groupe](https://www.facebook.com/groups/DevC.Casablanca) 
+* [Moroccan Software Crafters](https://www.meetup.com/fr-FR/Software-Craftsmanship-Club-ma/)
 * [Accelerate](https://www.amazon.fr/Accelerate-Building-Performing-Technology-Organizations/dp/1942788339)
 
-  [](https://www.amazon.fr/Accelerate-Building-Performing-Technology-Organizations/dp/1942788339)
+
+
+[](https://www.amazon.fr/Accelerate-Building-Performing-Technology-Organizations/dp/1942788339)
