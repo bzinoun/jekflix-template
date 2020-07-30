@@ -1,8 +1,8 @@
 ---
 date: 2020-07-30 10:33:07
 layout: post
-title: S01E07 - Être développeur et entrepreneur digital au Maroc, comment
-  réussir sa Tech Startup ?
+title: Être développeur et entrepreneur digital au Maroc, comment réussir sa
+  Tech Startup ?
 description: Être développeur et entrepreneur , comment réussir sa Tech Startup ?
 image: /assets/img/uploads/whatsapp-image-2020-07-29-at-12.15.37.jpeg
 category: "{{slug}}"
