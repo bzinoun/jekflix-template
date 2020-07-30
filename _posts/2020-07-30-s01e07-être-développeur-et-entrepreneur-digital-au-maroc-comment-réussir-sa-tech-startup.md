@@ -1,5 +1,5 @@
 ---
-date: 2020-07-30 10:33:07
+date: 2020-07-30 10:47:46
 layout: post
 title: Être développeur et entrepreneur digital au Maroc, comment réussir sa
   Tech Startup ?
