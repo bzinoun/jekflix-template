@@ -6,7 +6,7 @@ subtitle: S01E08 - Data Science, challenges et perspectives
 description: "Data Science, challenges et perspectives en Afrique "
 image: /assets/img/uploads/copie-de-s01e07.jpg
 optimized_image: /assets/img/uploads/copie-de-s01e07.jpg
-category: podcast
+category: blog
 tags:
   - data
 author: devcast
