@@ -1,5 +1,5 @@
 ---
-date: 2020-11-13 10:25:54
+date: 2020-11-13 11:05:00
 layout: post
 title: Data Science, challenges et perspectives en Afrique
 subtitle: S01E08 - Data Science, challenges et perspectives
