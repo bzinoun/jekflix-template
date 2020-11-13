@@ -6,7 +6,7 @@ title: Être développeur et entrepreneur digital au Maroc, comment réussir sa
 description: Être développeur et entrepreneur , comment réussir sa Tech Startup ?
 image: /assets/img/uploads/whatsapp-image-2020-07-29-at-12.15.37.jpeg
 optimized_image: /assets/img/uploads/whatsapp-image-2020-07-29-at-12.15.37.jpeg
-category: "{{slug}}"
+category: "Podcast"
 tags:
   - développeur
   - entrepreneur
