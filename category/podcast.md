@@ -1,5 +1,5 @@
 ---
 layout: category
 title: Podcast
-slug: "{{slug}}"
+slug: "podcast"
 ---
